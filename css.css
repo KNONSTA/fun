@@ -1,0 +1,14 @@
+
+
+.ja {
+  background-color: gray;
+  color: fuchsia;
+}
+
+p:hover {
+	color: red;
+}
+
+a:hover {
+	color: red;
+}
